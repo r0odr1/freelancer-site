@@ -1,7 +1,9 @@
 :root {
   --white: #ffffff;
   --black: #212121;
-  --primary: #ffc107
+  --primary: #ffc107;
+  --secundary: #0097A7;
+  --grey: #757575
 }
 
 html {
@@ -10,14 +12,41 @@ html {
 
 body {
   font-size: 16px; /* 1rem = 10px*/
+  font-family: 'Krub', sans-serif;
 }
 
 .titulo {
   text-align: center;
   font-size: 3.8rem;
-  color: var(--primary);
 }
 
 .titulo span {
   font-size: 2rem;
+}
+
+.container {
+  width: 120rem;
+  margin: 0 auto;
+}
+
+.nav-bg {
+  background-color: var(--secundary);
+}
+
+.navegation-initial {
+  display: flex;
+  justify-content: space-between;
+}
+
+.navegation-initial a {
+  color: var(--white);
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 1rem;
+}
+
+.navegation-initial a:hover {
+  background-color: var(--primary);
+  color: var(--black);
 }
