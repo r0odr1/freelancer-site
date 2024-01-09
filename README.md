@@ -20,6 +20,12 @@ Here you will find my portfolio, which I will continue to modify, showcasing eac
 
 ![image](https://github.com/r0odr1/freelancer-site/assets/126527883/4bad4758-af29-419a-b528-a030d0be460f)
 
+![image](https://github.com/r0odr1/freelancer-site/assets/126527883/a2ca79ba-bfa6-496d-a772-4c55c971b7d4)
+
+![image](https://github.com/r0odr1/freelancer-site/assets/126527883/f3763b0e-8e4e-4ceb-96ed-24af8adac7a4)
+
+![image](https://github.com/r0odr1/freelancer-site/assets/126527883/c11922b3-dcca-41a1-a875-2a9a48266e7c)
+
 ## My process
 
 ### Built with
